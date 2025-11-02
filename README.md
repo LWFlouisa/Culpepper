@@ -3,6 +3,11 @@ A demonstration of how to use my AI system.
 
 [Demo](https://www.youtube.com/embed/Lh06RpMfMEA?si=eS2WcCdb5dKUKiK6)
 
+## License
+This license is non negotable, and removal of this constitutes security bypassing.
+
+[License](https://bequestdecendresstudios.github.io/Documentation/posts/license/index.html)
+
 # First Test
 In this test, it consistently connected Marie Antionette, Catherine Howard, and Ann Boleyn, and not the Civil War.
 
