@@ -1,7 +1,7 @@
 # Culpepper
 A demonstration of how to use my AI system.
 
-[Demo](https://www.youtube.com/embed/Lh06RpMfMEA?si=eS2WcCdb5dKUKiK6)
+[Demo](https://www.youtube.com/watch?v=KzLpouxOVFI)
 
 ## License
 This license is non negotable, and removal of this constitutes security bypassing.
